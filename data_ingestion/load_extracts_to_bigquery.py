@@ -17,7 +17,7 @@ def load_to_bigquery(df, table_name):
     print(f"Key file : {credentials}")
 
     # Create BigQuery client
-    client = bigquery.Client(project=project_id)
+    client = bigquery.Client(project=project_id, location="EU")
 
     # Full table reference
     table_ref = f"{project_id}.{dataset_id}.{table_name}"

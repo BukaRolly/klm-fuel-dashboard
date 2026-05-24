@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: klm_fuel_dashboard_data
+    database: project-035fdd4a-27dd-4323-a4e
+    schema: klm_fuel_dashboard_data
+    tables:
+      - name: jet_fuel_prices
+        description: "Monthly jet fuel prices from EIA"
+      - name: fx_rates
+        description: "Monthly EUR/USD exchange rates from ECB"
