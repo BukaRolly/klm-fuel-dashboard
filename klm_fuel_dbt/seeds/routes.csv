@@ -1,0 +1,160 @@
+route,origin,destination,distance_km,aircraft_type,flights_per_month
+AMS-JFK,Amsterdam,New York JFK,5857,777-300ER,90
+AMS-LAX,Amsterdam,Los Angeles,8757,787-9,45
+AMS-ORD,Amsterdam,Chicago,7120,787-9,45
+AMS-IAD,Amsterdam,Washington,6223,787-9,45
+AMS-BOS,Amsterdam,Boston,5765,787-9,45
+AMS-ATL,Amsterdam,Atlanta,7842,787-9,30
+AMS-MIA,Amsterdam,Miami,8346,787-9,30
+AMS-MSP,Amsterdam,Minneapolis,7620,787-9,30
+AMS-SFO,Amsterdam,San Francisco,8926,787-9,30
+AMS-LAS,Amsterdam,Las Vegas,9130,787-9,15
+AMS-AUS,Amsterdam,Austin,8750,787-9,15
+AMS-SLC,Amsterdam,Salt Lake City,9000,787-9,15
+AMS-YYZ,Amsterdam,Toronto,6010,777-300ER,45
+AMS-YVR,Amsterdam,Vancouver,8230,787-9,30
+AMS-YUL,Amsterdam,Montreal,5888,787-9,30
+AMS-YYC,Amsterdam,Calgary,7880,787-9,15
+AMS-YEG,Amsterdam,Edmonton,8050,787-9,15
+AMS-GRU,Amsterdam,Sao Paulo,9761,777-300ER,30
+AMS-GIG,Amsterdam,Rio de Janeiro,9640,777-300ER,15
+AMS-EZE,Amsterdam,Buenos Aires,11360,777-300ER,15
+AMS-SCL,Amsterdam,Santiago,11670,777-300ER,15
+AMS-LIM,Amsterdam,Lima,10170,777-300ER,15
+AMS-BOG,Amsterdam,Bogota,9470,777-300ER,15
+AMS-CTG,Amsterdam,Cartagena,9600,777-300ER,15
+AMS-MEX,Amsterdam,Mexico City,9310,777-300ER,30
+AMS-CUN,Amsterdam,Cancun,9000,777-300ER,15
+AMS-PTY,Amsterdam,Panama City,9220,777-300ER,15
+AMS-SJO,Amsterdam,San Jose,9620,777-300ER,15
+AMS-PBM,Amsterdam,Paramaribo,7720,777-300ER,15
+AMS-CUR,Amsterdam,Curacao,8570,777-300ER,30
+AMS-SXM,Amsterdam,Sint Maarten,7810,777-300ER,15
+AMS-AUA,Amsterdam,Aruba,8540,777-300ER,15
+AMS-BON,Amsterdam,Bonaire,8590,777-300ER,15
+AMS-NRT,Amsterdam,Tokyo Narita,9350,777-300ER,45
+AMS-KIX,Amsterdam,Osaka,9630,777-300ER,30
+AMS-HKG,Amsterdam,Hong Kong,9360,777-300ER,45
+AMS-SIN,Amsterdam,Singapore,10840,787-9,45
+AMS-DPS,Amsterdam,Bali,12260,787-9,30
+AMS-CGK,Amsterdam,Jakarta,11730,787-9,30
+AMS-KUL,Amsterdam,Kuala Lumpur,10820,787-9,30
+AMS-MNL,Amsterdam,Manila,11170,787-9,30
+AMS-PEK,Amsterdam,Beijing,7820,777-300ER,30
+AMS-PVG,Amsterdam,Shanghai,9200,777-300ER,30
+AMS-ICN,Amsterdam,Seoul,8720,777-300ER,30
+AMS-TPE,Amsterdam,Taipei,9560,787-9,30
+AMS-BKK,Amsterdam,Bangkok,9560,787-9,45
+AMS-DEL,Amsterdam,Delhi,6870,787-9,45
+AMS-BOM,Amsterdam,Mumbai,7260,787-9,30
+AMS-BLR,Amsterdam,Bangalore,8170,787-9,30
+AMS-HYD,Amsterdam,Hyderabad,8010,787-9,15
+AMS-DXB,Amsterdam,Dubai,5182,777-300ER,60
+AMS-RUH,Amsterdam,Riyadh,5140,777-300ER,30
+AMS-DMM,Amsterdam,Dammam,5230,777-300ER,15
+AMS-NBO,Amsterdam,Nairobi,6813,787-9,30
+AMS-JNB,Amsterdam,Johannesburg,9060,777-300ER,30
+AMS-CPT,Amsterdam,Cape Town,9660,777-300ER,30
+AMS-LOS,Amsterdam,Lagos,5230,777-300ER,30
+AMS-ACC,Amsterdam,Accra,5540,777-300ER,30
+AMS-KGL,Amsterdam,Kigali,6840,787-9,15
+AMS-DAR,Amsterdam,Dar es Salaam,7380,787-9,15
+AMS-JRO,Amsterdam,Kilimanjaro,7300,787-9,15
+AMS-EBB,Amsterdam,Entebbe,6780,787-9,15
+AMS-ADD,Amsterdam,Addis Ababa,5875,777-300ER,15
+AMS-MRU,Amsterdam,Mauritius,9840,777-300ER,15
+AMS-LHR,Amsterdam,London Heathrow,370,Embraer175,180
+AMS-LCY,Amsterdam,London City,370,Embraer175,90
+AMS-MAN,Amsterdam,Manchester,480,Embraer175,90
+AMS-BHX,Amsterdam,Birmingham,480,Embraer175,60
+AMS-EDI,Amsterdam,Edinburgh,640,Embraer175,60
+AMS-GLA,Amsterdam,Glasgow,680,Embraer175,45
+AMS-BRS,Amsterdam,Bristol,470,Embraer175,45
+AMS-ABZ,Amsterdam,Aberdeen,740,Embraer175,45
+AMS-NCL,Amsterdam,Newcastle,490,Embraer175,45
+AMS-LBA,Amsterdam,Leeds Bradford,490,Embraer175,45
+AMS-INV,Amsterdam,Inverness,910,Embraer175,30
+AMS-EXT,Amsterdam,Exeter,430,Embraer175,30
+AMS-BFS,Amsterdam,Belfast,560,Embraer175,45
+AMS-CWL,Amsterdam,Cardiff,460,Embraer175,30
+AMS-CDG,Amsterdam,Paris CDG,430,Embraer175,120
+AMS-FRA,Amsterdam,Frankfurt,370,Embraer190,120
+AMS-MUC,Amsterdam,Munich,680,Embraer190,90
+AMS-BER,Amsterdam,Berlin,580,Embraer190,90
+AMS-DUS,Amsterdam,Dusseldorf,230,Embraer175,90
+AMS-HAM,Amsterdam,Hamburg,490,Embraer175,90
+AMS-STR,Amsterdam,Stuttgart,600,Embraer175,60
+AMS-NUE,Amsterdam,Nuremberg,680,Embraer175,45
+AMS-HAJ,Amsterdam,Hanover,390,Embraer175,60
+AMS-BRE,Amsterdam,Bremen,390,Embraer175,45
+AMS-BCN,Amsterdam,Barcelona,1240,737-800,90
+AMS-MAD,Amsterdam,Madrid,1460,737-800,90
+AMS-VLC,Amsterdam,Valencia,1530,737-800,45
+AMS-AGP,Amsterdam,Malaga,1870,737-800,45
+AMS-ALC,Amsterdam,Alicante,1740,737-800,45
+AMS-BIO,Amsterdam,Bilbao,1090,737-800,45
+AMS-OVD,Amsterdam,Asturias,1150,737-800,30
+AMS-IBZ,Amsterdam,Ibiza,1520,737-800,15
+AMS-PMI,Amsterdam,Palma Mallorca,1540,737-800,15
+AMS-FCO,Amsterdam,Rome,1430,737-800,90
+AMS-MXP,Amsterdam,Milan,870,Embraer190,90
+AMS-LIN,Amsterdam,Milan Linate,870,Embraer190,60
+AMS-VCE,Amsterdam,Venice,1050,Embraer190,60
+AMS-BLQ,Amsterdam,Bologna,1050,Embraer190,60
+AMS-FLR,Amsterdam,Florence,1100,Embraer175,45
+AMS-NAP,Amsterdam,Naples,1560,737-800,45
+AMS-CAG,Amsterdam,Cagliari,1560,737-800,30
+AMS-CTA,Amsterdam,Catania,1970,737-800,30
+AMS-TRN,Amsterdam,Turin,870,Embraer175,45
+AMS-GOA,Amsterdam,Genoa,980,Embraer175,30
+AMS-CPH,Amsterdam,Copenhagen,620,Embraer190,120
+AMS-ARN,Amsterdam,Stockholm,1140,Embraer190,90
+AMS-OSL,Amsterdam,Oslo,1130,Embraer190,90
+AMS-HEL,Amsterdam,Helsinki,1490,737-800,60
+AMS-AAL,Amsterdam,Aalborg,680,Embraer175,45
+AMS-AAR,Amsterdam,Aarhus,680,Embraer175,45
+AMS-BLL,Amsterdam,Billund,630,Embraer175,45
+AMS-GOT,Amsterdam,Gothenburg,900,Embraer175,45
+AMS-LPI,Amsterdam,Linkoping,1100,Embraer175,30
+AMS-AES,Amsterdam,Alesund,1190,Embraer175,30
+AMS-BGO,Amsterdam,Bergen,1080,Embraer175,45
+AMS-KRS,Amsterdam,Kristiansand,920,Embraer175,30
+AMS-SVG,Amsterdam,Stavanger,970,Embraer175,45
+AMS-TRD,Amsterdam,Trondheim,1280,Embraer175,30
+AMS-PRG,Amsterdam,Prague,890,Embraer190,90
+AMS-WAW,Amsterdam,Warsaw,1100,737-800,60
+AMS-KRK,Amsterdam,Krakow,1170,Embraer190,45
+AMS-GDN,Amsterdam,Gdansk,980,Embraer175,45
+AMS-KTW,Amsterdam,Katowice,1120,Embraer175,30
+AMS-POZ,Amsterdam,Poznan,970,Embraer175,45
+AMS-WRO,Amsterdam,Wroclaw,1040,Embraer175,45
+AMS-BUD,Amsterdam,Budapest,1150,737-800,60
+AMS-OTP,Amsterdam,Bucharest,1930,737-800,45
+AMS-BEG,Amsterdam,Belgrade,1430,737-800,45
+AMS-LJU,Amsterdam,Ljubljana,1060,Embraer175,30
+AMS-ZAG,Amsterdam,Zagreb,1140,Embraer175,30
+AMS-ATH,Amsterdam,Athens,2160,737-800,60
+AMS-SKG,Amsterdam,Thessaloniki,2100,737-800,30
+AMS-DBV,Amsterdam,Dubrovnik,1720,737-800,15
+AMS-SPU,Amsterdam,Split,1630,737-800,15
+AMS-VIE,Amsterdam,Vienna,1050,Embraer190,90
+AMS-ZRH,Amsterdam,Zurich,730,Embraer190,90
+AMS-GVA,Amsterdam,Geneva,730,Embraer190,90
+AMS-BSL,Amsterdam,Basel,680,Embraer175,45
+AMS-LIS,Amsterdam,Lisbon,1860,737-800,60
+AMS-OPO,Amsterdam,Porto,1700,737-800,45
+AMS-DUB,Amsterdam,Dublin,760,Embraer190,60
+AMS-ORK,Amsterdam,Cork,880,Embraer175,30
+AMS-BRU,Amsterdam,Brussels,170,Embraer175,90
+AMS-LUX,Amsterdam,Luxembourg,340,Embraer175,60
+AMS-TLV,Amsterdam,Tel Aviv,3280,737-800,45
+AMS-IST,Amsterdam,Istanbul,2190,737-800,45
+AMS-RIX,Amsterdam,Riga,1580,Embraer175,30
+AMS-CAI,Amsterdam,Cairo,3210,737-800,45
+AMS-CMN,Amsterdam,Casablanca,2090,737-800,30
+AMS-TUN,Amsterdam,Tunis,1870,737-800,30
+AMS-NIC,Amsterdam,Nicosia,3160,737-800,30
+AMS-SKP,Amsterdam,Skopje,1800,Embraer175,30
+AMS-TBS,Amsterdam,Tbilisi,3450,737-800,15
+AMS-BOJ,Amsterdam,Bourgas,1950,737-800,15
+AMS-SOF,Amsterdam,Sofia,1870,737-800,30

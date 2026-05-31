@@ -59,6 +59,7 @@ final as (
 
         -- EUR prices
         base.price_eur_per_gallon,
+        round(base.price_eur_per_gallon / 3.78541, 4) as price_eur_per_litre,
         base.price_eur_per_tonne,
 
         -- FX
