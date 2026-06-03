@@ -23,7 +23,7 @@ annual_avg as (
 
 baseline as (
 
-    select round(avg(price_usd_per_tonne), 2) as baseline_price
+    select round(avg(price_eur_per_tonne), 2) as baseline_price
     from base
     where price_year = 2019
 
@@ -66,11 +66,11 @@ final as (
         base.eur_usd_rate,
         base.usd_eur_rate,
 
-        -- YoY change
+        -- YoY change in EUR
         round(
-            (base.price_usd_per_tonne - lag(base.price_usd_per_tonne, 12)
+            (base.price_eur_per_tonne - lag(base.price_eur_per_tonne, 12)
                 over (order by base.price_date))
-            / nullif(lag(base.price_usd_per_tonne, 12)
+            / nullif(lag(base.price_eur_per_tonne, 12)
                 over (order by base.price_date), 0) * 100,
         2)                                          as price_yoy_pct_change,
 
@@ -78,8 +78,8 @@ final as (
         annual_avg.annual_avg_usd_per_tonne,
         annual_avg.annual_avg_eur_per_tonne,
 
-        -- Index 2019 = 100
-        round(base.price_usd_per_tonne / baseline.baseline_price * 100, 1)
+        -- Index 2019 = 100 (now in EUR)
+        round(base.price_eur_per_tonne / baseline.baseline_price * 100, 1)
                                                     as price_index_2019_100
 
     from base
