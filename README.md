@@ -14,6 +14,9 @@ Thanks for checking it out. Below is extensive developmental description of the 
 ### Page 1 — Fuel Price Trends
 ![Fuel Price Trends](screenshots/pbi_page1_fuel_price_trends.png)
 
+### Page 2 — Route Fuel Cost Exposure
+![Route Fuel Cost Exposure](screenshots/pbi_page2_route_fuel_costs_by_aircraft_family.png)
+
 ### Data Model
 ![Data Model](screenshots/pbi_model_view.png)
 
